@@ -1,0 +1,18 @@
+.title{
+	text-align: center;
+	background:#535352;
+	color:#FFFFFF;
+	border-radius:50px;
+	font-size:30px;
+}
+#vid{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius:50px;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
